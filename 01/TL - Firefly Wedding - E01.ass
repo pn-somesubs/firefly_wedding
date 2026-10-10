@@ -14,18 +14,15 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,0
 Style: Italics,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,0
 Style: Top,Gandhi Sans,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,225,225,60,0
-Style: SignsFire,Gandhi Sans,48,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.96,0:00:16.96,Italics,,0,0,0,,{\fs50\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}\NSomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} künefe-kun\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Itsu\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub \N
+Dialogue: 0,0:00:06.96,0:00:16.96,Italics,,0,0,0,,{\fs50\an7\fe162\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}\NSomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} künefe-kun\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Itsu\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub \N
 Dialogue: 10,0:00:10.96,0:00:16.24,Italics,Satoko,0,0,0,,Kadınlar ailelerinin malıdır,\Nhediye edilebilir ve takas edilebilir.
 Dialogue: 10,0:00:17.02,0:00:19.77,Italics,Satoko,0,0,0,,Evlilik söz konusu olduğunda,\Nkendi irademiz olmamalıdır.
 Dialogue: 10,0:00:20.51,0:00:22.17,Italics,Satoko,0,0,0,,Ve yine de...
 Dialogue: 10,0:00:23.03,0:00:29.59,Italics,Satoko,0,0,0,,Kendi özgür irademle,\Nsevmem yasak olan birini sevdim.
 Dialogue: 10,0:00:31.39,0:00:35.64,Italics,Satoko,0,0,0,,Olabileceğim kadar mutluydum.
-Dialogue: 0,0:02:03.26,0:02:06.94,SignsFire,Sign,0,0,0,,{=6}{\an8\fnGeorgia\bord0\shad0\b1\blur5\fsp1.5\fs90\t(30,500,\blur0.2\fsp0)\fscx90\t(\fs70)\c&H54FFDC&\t(550,750,\c&H428656&)\t(765,840,\c&H6B2214&)\t(750,1100,\c&H000000&)\move(960,5,960,17)}Ateş Böceği Düğünü
-Dialogue: 1,0:02:06.98,0:02:13.24,SignsFire,Sign,0,0,0,,{\an9\bord1.5\shad0\b1\3a&H70&\blur5\fnGeorgia\fscx100\fs76\c&H030200&\pos(1860,22)\3c&HDEDEFA&}İstenmeyen Ödeme
 Dialogue: 10,0:02:21.19,0:02:22.86,Default,Gardener 2,0,0,0,,H-Hey.
 Dialogue: 10,0:02:22.86,0:02:24.70,Default,Gardener 2,0,0,0,,Bakmayı kes de işine dön.
 Dialogue: 10,0:02:24.70,0:02:28.24,Default,Gardener 1,0,0,0,,Beni suçlayabilir misin?\NO neredeyse hiç evden çıkmaz.
@@ -158,7 +155,6 @@ Dialogue: 10,0:10:21.29,0:10:23.38,Italics,Satoko {N},0,0,0,,27 Haziran.
 Dialogue: 10,0:10:23.60,0:10:25.57,Default,Kotaro,0,0,0,,Satoko Hanım, artık bizim—
 Dialogue: 10,0:10:26.85,0:10:28.89,Italics,Satoko {N},0,0,0,,Bugün,
 Dialogue: 10,0:10:29.69,0:10:32.60,Italics,Satoko {N},0,0,0,,kendimi garip adamlar\Ntarafından kaçırılmış halde buldum.
-Dialogue: 2,0:10:37.95,0:10:41.33,SignsFire,Sign,0,0,0,,{\fad(0,1300)\fnGeorgia\fs50\c&HFFFFFF&\bord0\shad0\b1\fscx100\pos(200,400)}Ateş Böceği\NDüğünü
 Dialogue: 10,0:10:38.99,0:10:42.59,Default,Mitsue,0,0,0,,Oh? Demek bu kız o mu?
 Dialogue: 10,0:10:42.59,0:10:45.03,Default,Mitsue,0,0,0,,Gerçekten çok güzel bir kız.
 Dialogue: 10,0:10:45.03,0:10:47.05,Italics,Satoko {M},0,0,0,,Bu insanlar da kim?
