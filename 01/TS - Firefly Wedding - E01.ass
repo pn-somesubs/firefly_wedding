@@ -1,0 +1,20 @@
+[Script Info]
+Title: pn-SomeSubs - Firefly Wedding
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SignsFire,Gandhi Sans,48,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:03.26,0:02:06.94,SignsFire,Sign,0,0,0,,{\an8\fnGeorgia\b1\blur5\fsp1.5\fs90\t(30,500,\blur0.2\fsp0)\fscx90\t(\fs70)\c&H54FFDC&\t(550,750,\c&H428656&)\t(765,840,\c&H6B2214&)\t(750,1100,\c&H000000&)\move(960,5,960,17)}Ateş Böceği Düğünü
+Dialogue: 1,0:02:06.98,0:02:13.24,SignsFire,Sign,0,0,0,,{\an9\bord1.5\b1\3a&H70&\blur5\fnGeorgia\fs76\c&H030200&\pos(1860,22)\3c&HDEDEFA&}İstenmeyen Ödeme
+Dialogue: 2,0:10:37.95,0:10:41.33,SignsFire,Sign,0,0,0,,{\fad(0,1300)\fnGeorgia\fs50\c&HFFFFFF&\b1\pos(200,400)}Ateş Böceği\NDüğünü
