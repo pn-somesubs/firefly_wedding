@@ -30,7 +30,7 @@ Style: Handwritten,Sweetest Cat Ever,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:05.83,0:00:07.98,Default,Shinpei {ep 1},0,0,0,,Seni mutlu edeceğim.
-Dialogue: 10,0:00:00.00,0:00:10.00,Default,Shinpei {ep 1},0,0,0,,{\fs40\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} blue\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} RassaX\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 10,0:00:00.00,0:00:10.00,Default,Shinpei {ep 1},0,0,0,,{\fs40\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Künefe-kun\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} RassaX\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
 Dialogue: 10,0:00:09.11,0:00:09.98,Default,Shinpei,0,0,0,,Sanki...
 Dialogue: 10,0:00:10.78,0:00:13.60,Default,Shinpei,0,0,0,,benim her yönümü kabul\Nedeceksin gibi hissediyorum.
 Dialogue: 10,0:00:16.28,0:00:20.16,Default,Satoko,0,0,0,,Şey, gerçekten benimle\Nevlenmeyi düşünüyor musun?
