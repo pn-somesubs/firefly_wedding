@@ -15,18 +15,15 @@ Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.2,0.5,2,10,10,20,1
 Style: Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,8,10,10,20,1
 Style: Flashback,Gandhi Sans,24,&H00EAEAEC,&H000000FF,&H00494747,&HA0454545,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,20,1
-Style: Sign_Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.30,0:00:16.67,Default,,0,0,0,,{\fs18\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}\NSomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} künefe-kun\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Itsu\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub \N
+Dialogue: 0,0:00:05.30,0:00:16.67,Default,,0,0,0,,{\fs18\an7\fe162\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}\NSomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} künefe-kun\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Itsu\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub \N
 Dialogue: 0,0:00:06.67,0:00:10.59,Default,Shinpei {ep 2},0,0,0,,Bir kadının bu adadan\Nayrılmasının tek bir yolu var.
 Dialogue: 0,0:00:11.67,0:00:14.62,Default,Shinpei {ep 2},0,0,0,,Senin bir fahişe olmanı istiyorum, Satoko.
 Dialogue: 0,0:00:16.81,0:00:20.06,Italics,Satoko {M} {ep 2},0,0,0,,İçinde bulunduğum durumu anlayınca\Nkafam netleşti.
 Dialogue: 0,0:00:21.03,0:00:25.34,Italics,Satoko {M} {ep 2},0,0,0,,Daha fazla bilgi ve müttefik edinmek için\Ngeri durup bekleyemem.
 Dialogue: 0,0:00:26.84,0:00:28.89,Default,Satoko {ep 2},0,0,0,,Lütfen beni bir geneleve götürün.
-Dialogue: 0,0:00:31.88,0:00:33.05,Sign_Default,Sign,0,0,0,,{\fad(275,0)\fnGeorgia\b1\bord0\shad0\fs20\t(\fs18.5)\fax-0.19\fscx95\blur0.2\pos(302,174)\c&H745F6D&\frz23\frx350\fry32}Isekichi
-Dialogue: 0,0:00:33.89,0:00:37.47,Sign_Default,Sign,0,0,0,,{\fad(600,0)\fnGeorgia\b1\bord0\shad0\fs7\c&H4F4C4C&\pos(319,136)}Isekichi
 Dialogue: 0,0:00:34.01,0:00:36.81,Default,Satoko,0,0,0,,{\i1}Burası{\i0} mı...?
 Dialogue: 0,0:00:37.75,0:00:40.07,Default,Satoko,0,0,0,,Diğerlerinden farklı bir havası var.
 Dialogue: 0,0:00:40.52,0:00:45.29,Default,Shinpei,0,0,0,,Ah, burası en alt sınıf bir genelev.\NKapıdan gireni bile işe alırlar.
@@ -35,13 +32,7 @@ Dialogue: 0,0:00:46.65,0:00:50.53,Default,Satoko,0,0,0,,Beni satın alabilecek p
 Dialogue: 0,0:00:50.53,0:00:52.18,Default,Shinpei,0,0,0,,Merak etme.
 Dialogue: 0,0:00:56.97,0:00:59.08,Default,Satoko,0,0,0,,Dün için özür dilerim.
 Dialogue: 0,0:00:59.83,0:01:00.99,Default,Shinpei,0,0,0,,Ne için?
-Dialogue: 0,0:01:00.99,0:01:04.41,Sign_Default,Sign,0,0,0,,{\bord6\shad0\b1\blur0.2\fs70\c&H000000&\3c&HFFFFFF&\t(800,1075,\fs50\3c&HF6F2EC&)\an8\fnImpact\frz30\move(76,42,55,35,800,1075)}AAAAA!
-Dialogue: 0,0:01:02.06,0:01:03.79,Sign_Default,Sign,0,0,0,,{\fad(1000,0)\bord1.5\shad0\blur0.2\b1\fscx92\move(456,68,439,74)\c&H121211&\3c&HC7C6C6&}Temiz kıyafetleri\Nburaya bırakacağım...
-Dialogue: 0,0:01:03.79,0:01:04.41,Sign_Default,Sign,0,0,0,,{\bord1.5\shad0\blur0.2\b1\fscx92\move(439,74,436,75)\c&H121211&\3c&HC7C6C6&}Temiz kıyafetleri\Nburaya bırakacağım...
 Dialogue: 0,0:01:02.42,0:01:04.41,Default,Shinpei,0,0,0,,Banyoda bana kova atman mı?
-Dialogue: 0,0:01:04.41,0:01:08.42,Sign_Default,Sign,0,0,0,,{\bord6\shad0\b1\blur0.2\fs70\c&H000000&\3c&HFFFFFF&\t(800,1075,\fs50\3c&HF6F2EC&)\an8\fnImpact\frz330\move(558,46,579,35,860,1100)}AAAAA!
-Dialogue: 0,0:01:05.52,0:01:07.13,Sign_Default,Sign,0,0,0,,{\fad(250,0)\bord1.2\shad0\fs18\an8\blur0.2\b1\fscx92\c&H1B1010&\3c&H7A7371&\move(86,226,94,175)\frz13.85}Korkmuş\Nolmalısın.\NSenin yanında\Nuyurum...
-Dialogue: 0,0:01:07.13,0:01:08.42,Sign_Default,Sign,0,0,0,,{\bord1.2\shad0\fs18\an8\blur0.2\b1\fscx92\c&H1B1010&\3c&H7A7371&\move(94,175,102,173)\frz13.85}Korkmuş\Nolmalısın.\NSenin yanında\Nuyurum...
 Dialogue: 0,0:01:06.13,0:01:08.42,Default,Shinpei,0,0,0,,Yoksa beni yorganın altına\Nalmaman mı?
 Dialogue: 0,0:01:10.09,0:01:11.18,Default,Satoko,0,0,0,,Hayır...
 Dialogue: 0,0:01:11.69,0:01:14.91,Default,Satoko,0,0,0,,Bütün gece benim için\Nnöbet tuttuğunuz için özür dilerim.
@@ -54,10 +45,6 @@ Dialogue: 0,0:01:31.79,0:01:34.24,Default,Yamamoto,0,0,0,,Bu kadarını beklemiy
 Dialogue: 0,0:01:34.82,0:01:38.10,Default,Shinpei,0,0,0,,Yeni bir kız getireceğimi\Nhaber vermiştim.
 Dialogue: 0,0:01:39.27,0:01:40.57,Default,Shinpei,0,0,0,,Onlara.
 Dialogue: 0,0:01:42.47,0:01:45.31,Italics,Satoko {M},0,0,0,,Bunlar dünkü kadınlar...
-Dialogue: 0,0:01:46.84,0:01:47.96,Sign_Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord6.5\shad0\blur0.2\fs50\c&H57203A&\3c&H451429&\move(536,180,536,198)}BAKIŞ
-Dialogue: 1,0:01:46.84,0:01:47.96,Sign_Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord3.5\shad0\blur0.2\fs50\c&H57203A&\3c&HF1E1ED&\move(536,180,536,198)}BAKIŞ
-Dialogue: 0,0:01:47.96,0:01:48.62,Sign_Default,Sign,0,0,0,,{\fnImpact\bord6.5\shad0\blur0.2\fs50\c&H57203A&\3c&H451429&\move(536,198,536,202)}BAKIŞ
-Dialogue: 1,0:01:47.96,0:01:48.62,Sign_Default,Sign,0,0,0,,{\fnImpact\bord3.5\shad0\blur0.2\fs50\c&H57203A&\3c&HF1E1ED&\move(536,198,536,202)}BAKIŞ
 Dialogue: 0,0:01:49.37,0:01:52.38,Italics,Satoko {M},0,0,0,,Beni hiç sıcak karşılamıyorlar.
 Dialogue: 0,0:01:52.80,0:01:56.38,Italics,Satoko {M},0,0,0,,Yine de ona epey düşkünler.
 Dialogue: 0,0:01:57.12,0:02:00.02,Italics,Satoko {M},0,0,0,,Onun bir kiralık katil olduğunu\Nbilmiyorlar mı acaba?
@@ -65,8 +52,6 @@ Dialogue: 0,0:02:00.02,0:02:02.98,Italics,Satoko {M},0,0,0,,Bu adam da kim?
 Dialogue: 0,0:02:03.92,0:02:05.26,Default,Tamaki,0,0,0,,Hey, sen.
 Dialogue: 0,0:02:05.64,0:02:09.13,Default,Tamaki,0,0,0,,Önce şu kirli kimononu\Nbir halledelim.
 Dialogue: 0,0:02:13.30,0:02:15.15,Default,Satoko,0,0,0,,Beklettim, kusura bakmayın.
-Dialogue: 0,0:03:56.27,0:04:00.01,Sign_Default,Sign,0,0,0,,{\an8\fnGeorgia\bord0\shad0\b1\blur5\fsp1.5\fs30\t(30,500,\blur0.2\fsp0)\fscx90\t(\fs28)\c&H54FFDC&\t(550,750,\c&H428656&)\t(765,840,\c&H6B2214&)\t(850,1100,\c&H000000&)\move(320,5,320,17)}Ateşböceği Düğünü
-Dialogue: 0,0:04:00.01,0:04:04.76,Sign_Default,Sign,0,0,0,,{\an9\bord0\shad0\b1\3a&H70&\blur0.2\fnGeorgia\fscx90\fs22\c&HFFFFFF&\pos(570,23)\3c&HDEDEFA&}Gözcü Fare
 Dialogue: 0,0:04:00.53,0:04:02.51,Default,Shinpei,0,0,0,,Vay, Satoko!
 Dialogue: 0,0:04:03.08,0:04:05.45,Default,Shinpei,0,0,0,,Çok güzel olmuşsun!
 Dialogue: 0,0:04:09.66,0:04:14.02,Default,Shinpei,0,0,0,,Seni böyle başka bir adama\Ngöndermek içimi acıtıyor.
@@ -229,8 +214,6 @@ Dialogue: 0,0:13:05.60,0:13:06.47,Italics,Satoko {M},0,0,0,,Neden!
 Dialogue: 0,0:13:06.86,0:13:08.00,Default,Nitobe,0,0,0,,Neden bu kadar korkuyorsun—
 Dialogue: 0,0:13:08.00,0:13:10.31,Default,Satoko,0,0,0,,Fare! Fare gördüm!
 Dialogue: 0,0:13:10.79,0:13:14.29,Italics,Satoko {M},0,0,0,,Sorun yok, iyiyim; sen dışarıda dur!
-Dialogue: 0,0:13:15.44,0:13:16.85,Sign_Default,Sign,0,0,0,,{\fad(230,0)\shad0\bord2\blur0.2\b1\fs30\an8\frz342.6\c&H000000&\3c&HFFFFFF&\move(396,69.5,404,33.5)}Tam\Nburadayım\h
-Dialogue: 0,0:13:15.44,0:13:16.85,Sign_Default,Sign,0,0,0,,{\fad(230,0)\shad0\bord2\blur0.2\b1\fs30\an8\c&H000000&\3c&HFFFFFF&\move(248.5,270,234,237.5)\frz26}güvende olmanı\Nsağlıyorum
 Dialogue: 0,0:13:19.74,0:13:22.79,Default,Satoko,0,0,0,,Fare paravanın arkasında!\NÇok korktum!
 Dialogue: 0,0:13:22.79,0:13:25.61,Default,Nitobe,0,0,0,,Tamam. Onu kovalarım.
 Dialogue: 0,0:13:25.61,0:13:27.36,Default,Nitobe,0,0,0,,Nereye gitti?
@@ -263,7 +246,6 @@ Dialogue: 0,0:14:57.62,0:15:00.50,Default,Yukari,0,0,0,,İlk günden büyük iş
 Dialogue: 0,0:14:57.62,0:14:59.95,Top,Satoko,0,0,0,,Nitobe Bey! Size ne oldu... Aa!
 Dialogue: 0,0:15:09.19,0:15:12.26,Default,Yukari,0,0,0,,Bu sefer av olacak olan...
 Dialogue: 0,0:15:12.86,0:15:14.79,Default,Yukari,0,0,0,,o kız.
-Dialogue: 0,0:15:16.01,0:15:20.87,Sign_Default,Sign,0,0,0,,{\fad(0,1300)\fnGeorgia\fs18\bord0\shad0\b1\fscx90\pos(562,170)\c&HFFFFFF&}Ateşböceği\NDüğünü
 Dialogue: 0,0:15:17.18,0:15:19.27,Italics,Satoko {M},0,0,0,,Ne oldu böyle?
 Dialogue: 0,0:15:19.27,0:15:21.90,Italics,Satoko {M},0,0,0,,Az önceki hâline\Nhiç benzemiyor.
 Dialogue: 0,0:15:29.50,0:15:33.78,Default,Nitobe,0,0,0,,Gün ışığında eğlenmeyeli\Nne kadar oldu acaba?
@@ -359,4 +341,3 @@ Dialogue: 0,0:21:05.09,0:21:10.70,Top,Satoko,0,0,0,,Bırak beni! Shinpei Bey! Sh
 Dialogue: 0,0:21:09.34,0:21:10.70,Default,Tamaki,0,0,0,,Neden?
 Dialogue: 0,0:21:13.29,0:21:16.33,Default,Yamamoto,0,0,0,,Kimsenin araya girmesini\Nistemiyormuş...
 Dialogue: 0,0:21:18.33,0:21:23.98,Default,Yamamoto,0,0,0,,...sevdiği kadına kendini\Ndaha çok sevdirecek fırsata.
-Dialogue: 0,0:22:50.84,0:22:55.25,Sign_Default,Sign,0,0,0,,{\fnTimes New Roman\bord2\fs16\shad0\blur0.2\pos(320,330)\c&H494B5F&\3c&HC8C3ED&}Ateşböceği Düğünü Anime Prodüksiyon Komitesi tarafından hazırlanmıştır
