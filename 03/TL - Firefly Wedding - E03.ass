@@ -1,0 +1,362 @@
+[Script Info]
+Title: pn-SomeSubs - Firefly Wedding
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,20,1
+Style: Italics,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,1.2,0.5,2,10,10,20,1
+Style: Top,Gandhi Sans,24,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,8,10,10,20,1
+Style: Flashback,Gandhi Sans,24,&H00EAEAEC,&H000000FF,&H00494747,&HA0454545,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,20,1
+Style: Sign_Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.30,0:00:16.67,Default,,0,0,0,,{\fs18\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}\NSomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} künefe-kun\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Itsu\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub \N
+Dialogue: 0,0:00:06.67,0:00:10.59,Default,Shinpei {ep 2},0,0,0,,Bir kadının bu adadan\Nayrılmasının tek bir yolu var.
+Dialogue: 0,0:00:11.67,0:00:14.62,Default,Shinpei {ep 2},0,0,0,,Senin bir fahişe olmanı istiyorum, Satoko.
+Dialogue: 0,0:00:16.81,0:00:20.06,Italics,Satoko {M} {ep 2},0,0,0,,İçinde bulunduğum durumu anlayınca\Nkafam netleşti.
+Dialogue: 0,0:00:21.03,0:00:25.34,Italics,Satoko {M} {ep 2},0,0,0,,Daha fazla bilgi ve müttefik edinmek için\Ngeri durup bekleyemem.
+Dialogue: 0,0:00:26.84,0:00:28.89,Default,Satoko {ep 2},0,0,0,,Lütfen beni bir geneleve götürün.
+Dialogue: 0,0:00:31.88,0:00:33.05,Sign_Default,Sign,0,0,0,,{\fad(275,0)\fnGeorgia\b1\bord0\shad0\fs20\t(\fs18.5)\fax-0.19\fscx95\blur0.2\pos(302,174)\c&H745F6D&\frz23\frx350\fry32}Isekichi
+Dialogue: 0,0:00:33.89,0:00:37.47,Sign_Default,Sign,0,0,0,,{\fad(600,0)\fnGeorgia\b1\bord0\shad0\fs7\c&H4F4C4C&\pos(319,136)}Isekichi
+Dialogue: 0,0:00:34.01,0:00:36.81,Default,Satoko,0,0,0,,{\i1}Burası{\i0} mı...?
+Dialogue: 0,0:00:37.75,0:00:40.07,Default,Satoko,0,0,0,,Diğerlerinden farklı bir havası var.
+Dialogue: 0,0:00:40.52,0:00:45.29,Default,Shinpei,0,0,0,,Ah, burası en alt sınıf bir genelev.\NKapıdan gireni bile işe alırlar.
+Dialogue: 0,0:00:45.29,0:00:46.65,Default,Satoko,0,0,0,,En {\i1}alt{\i0} sınıf mı?
+Dialogue: 0,0:00:46.65,0:00:50.53,Default,Satoko,0,0,0,,Beni satın alabilecek parası olan\Nerkekler gerçekten buraya mı geliyor?
+Dialogue: 0,0:00:50.53,0:00:52.18,Default,Shinpei,0,0,0,,Merak etme.
+Dialogue: 0,0:00:56.97,0:00:59.08,Default,Satoko,0,0,0,,Dün için özür dilerim.
+Dialogue: 0,0:00:59.83,0:01:00.99,Default,Shinpei,0,0,0,,Ne için?
+Dialogue: 0,0:01:00.99,0:01:04.41,Sign_Default,Sign,0,0,0,,{\bord6\shad0\b1\blur0.2\fs70\c&H000000&\3c&HFFFFFF&\t(800,1075,\fs50\3c&HF6F2EC&)\an8\fnImpact\frz30\move(76,42,55,35,800,1075)}AAAAA!
+Dialogue: 0,0:01:02.06,0:01:03.79,Sign_Default,Sign,0,0,0,,{\fad(1000,0)\bord1.5\shad0\blur0.2\b1\fscx92\move(456,68,439,74)\c&H121211&\3c&HC7C6C6&}Temiz kıyafetleri\Nburaya bırakacağım...
+Dialogue: 0,0:01:03.79,0:01:04.41,Sign_Default,Sign,0,0,0,,{\bord1.5\shad0\blur0.2\b1\fscx92\move(439,74,436,75)\c&H121211&\3c&HC7C6C6&}Temiz kıyafetleri\Nburaya bırakacağım...
+Dialogue: 0,0:01:02.42,0:01:04.41,Default,Shinpei,0,0,0,,Banyoda bana kova atman mı?
+Dialogue: 0,0:01:04.41,0:01:08.42,Sign_Default,Sign,0,0,0,,{\bord6\shad0\b1\blur0.2\fs70\c&H000000&\3c&HFFFFFF&\t(800,1075,\fs50\3c&HF6F2EC&)\an8\fnImpact\frz330\move(558,46,579,35,860,1100)}AAAAA!
+Dialogue: 0,0:01:05.52,0:01:07.13,Sign_Default,Sign,0,0,0,,{\fad(250,0)\bord1.2\shad0\fs18\an8\blur0.2\b1\fscx92\c&H1B1010&\3c&H7A7371&\move(86,226,94,175)\frz13.85}Korkmuş\Nolmalısın.\NSenin yanında\Nuyurum...
+Dialogue: 0,0:01:07.13,0:01:08.42,Sign_Default,Sign,0,0,0,,{\bord1.2\shad0\fs18\an8\blur0.2\b1\fscx92\c&H1B1010&\3c&H7A7371&\move(94,175,102,173)\frz13.85}Korkmuş\Nolmalısın.\NSenin yanında\Nuyurum...
+Dialogue: 0,0:01:06.13,0:01:08.42,Default,Shinpei,0,0,0,,Yoksa beni yorganın altına\Nalmaman mı?
+Dialogue: 0,0:01:10.09,0:01:11.18,Default,Satoko,0,0,0,,Hayır...
+Dialogue: 0,0:01:11.69,0:01:14.91,Default,Satoko,0,0,0,,Bütün gece benim için\Nnöbet tuttuğunuz için özür dilerim.
+Dialogue: 0,0:01:14.91,0:01:19.33,Default,Shinpei,0,0,0,,Sorun değildi. O utangaç hâlin de\Nhoşuma gidiyor.
+Dialogue: 0,0:01:20.09,0:01:21.85,Default,Yamamoto,0,0,0,,Shinpei Bey.
+Dialogue: 0,0:01:21.85,0:01:24.35,Default,Yamamoto,0,0,0,,Sizi bekliyorduk.
+Dialogue: 0,0:01:24.35,0:01:27.35,Default,Shinpei,0,0,0,,Yamamoto Bey, bahsettiğim kız bu.
+Dialogue: 0,0:01:29.10,0:01:30.48,Default,Satoko,0,0,0,,Tanıştığımıza memnun oldum.
+Dialogue: 0,0:01:31.79,0:01:34.24,Default,Yamamoto,0,0,0,,Bu kadarını beklemiyordum...
+Dialogue: 0,0:01:34.82,0:01:38.10,Default,Shinpei,0,0,0,,Yeni bir kız getireceğimi\Nhaber vermiştim.
+Dialogue: 0,0:01:39.27,0:01:40.57,Default,Shinpei,0,0,0,,Onlara.
+Dialogue: 0,0:01:42.47,0:01:45.31,Italics,Satoko {M},0,0,0,,Bunlar dünkü kadınlar...
+Dialogue: 0,0:01:46.84,0:01:47.96,Sign_Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord6.5\shad0\blur0.2\fs50\c&H57203A&\3c&H451429&\move(536,180,536,198)}BAKIŞ
+Dialogue: 1,0:01:46.84,0:01:47.96,Sign_Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord3.5\shad0\blur0.2\fs50\c&H57203A&\3c&HF1E1ED&\move(536,180,536,198)}BAKIŞ
+Dialogue: 0,0:01:47.96,0:01:48.62,Sign_Default,Sign,0,0,0,,{\fnImpact\bord6.5\shad0\blur0.2\fs50\c&H57203A&\3c&H451429&\move(536,198,536,202)}BAKIŞ
+Dialogue: 1,0:01:47.96,0:01:48.62,Sign_Default,Sign,0,0,0,,{\fnImpact\bord3.5\shad0\blur0.2\fs50\c&H57203A&\3c&HF1E1ED&\move(536,198,536,202)}BAKIŞ
+Dialogue: 0,0:01:49.37,0:01:52.38,Italics,Satoko {M},0,0,0,,Beni hiç sıcak karşılamıyorlar.
+Dialogue: 0,0:01:52.80,0:01:56.38,Italics,Satoko {M},0,0,0,,Yine de ona epey düşkünler.
+Dialogue: 0,0:01:57.12,0:02:00.02,Italics,Satoko {M},0,0,0,,Onun bir kiralık katil olduğunu\Nbilmiyorlar mı acaba?
+Dialogue: 0,0:02:00.02,0:02:02.98,Italics,Satoko {M},0,0,0,,Bu adam da kim?
+Dialogue: 0,0:02:03.92,0:02:05.26,Default,Tamaki,0,0,0,,Hey, sen.
+Dialogue: 0,0:02:05.64,0:02:09.13,Default,Tamaki,0,0,0,,Önce şu kirli kimononu\Nbir halledelim.
+Dialogue: 0,0:02:13.30,0:02:15.15,Default,Satoko,0,0,0,,Beklettim, kusura bakmayın.
+Dialogue: 0,0:03:56.27,0:04:00.01,Sign_Default,Sign,0,0,0,,{\an8\fnGeorgia\bord0\shad0\b1\blur5\fsp1.5\fs30\t(30,500,\blur0.2\fsp0)\fscx90\t(\fs28)\c&H54FFDC&\t(550,750,\c&H428656&)\t(765,840,\c&H6B2214&)\t(850,1100,\c&H000000&)\move(320,5,320,17)}Ateşböceği Düğünü
+Dialogue: 0,0:04:00.01,0:04:04.76,Sign_Default,Sign,0,0,0,,{\an9\bord0\shad0\b1\3a&H70&\blur0.2\fnGeorgia\fscx90\fs22\c&HFFFFFF&\pos(570,23)\3c&HDEDEFA&}Gözcü Fare
+Dialogue: 0,0:04:00.53,0:04:02.51,Default,Shinpei,0,0,0,,Vay, Satoko!
+Dialogue: 0,0:04:03.08,0:04:05.45,Default,Shinpei,0,0,0,,Çok güzel olmuşsun!
+Dialogue: 0,0:04:09.66,0:04:14.02,Default,Shinpei,0,0,0,,Seni böyle başka bir adama\Ngöndermek içimi acıtıyor.
+Dialogue: 0,0:04:14.83,0:04:17.90,Default,Shinpei,0,0,0,,Kimsenin göremeyeceği bir yere kapatıp
+Dialogue: 0,0:04:17.90,0:04:21.28,Default,Shinpei,0,0,0,,ömrüm boyunca Satoko'yu \Nkendime saklamak istiyorum.
+Dialogue: 0,0:04:23.99,0:04:25.26,Default,Shinpei,0,0,0,,Ama yapacak bir şey yok.
+Dialogue: 0,0:04:25.57,0:04:27.78,Default,Shinpei,0,0,0,,İkimizin geleceği için.
+Dialogue: 0,0:04:28.32,0:04:30.32,Default,Shinpei,0,0,0,,Hadi gidelim.
+Dialogue: 0,0:04:30.32,0:04:31.54,Default,Satoko,0,0,0,,Nereye?
+Dialogue: 0,0:04:31.78,0:04:33.83,Default,Shinpei,0,0,0,,Müşterini karşılamaya.
+Dialogue: 0,0:04:34.09,0:04:36.25,Default,Satoko,0,0,0,,Ne? Şimdi mi?
+Dialogue: 0,0:04:36.25,0:04:37.82,Default,Satoko,0,0,0,,Lütfen bekleyin.
+Dialogue: 0,0:04:37.82,0:04:40.00,Default,Satoko,0,0,0,,Nasıl bir beyefendi?
+Dialogue: 0,0:04:40.00,0:04:42.05,Default,Shinpei,0,0,0,,Adı Eishin Nitobe.
+Dialogue: 0,0:04:42.43,0:04:44.26,Default,Shinpei,0,0,0,,Emniyet Genel Müdürü'nün oğlu.
+Dialogue: 0,0:04:44.26,0:04:47.29,Default,Satoko,0,0,0,,E-Emniyet Genel Müdürü'nün oğlu mu?
+Dialogue: 0,0:04:47.29,0:04:49.26,Default,Shinpei,0,0,0,,Evet. İnanılmaz, değil mi?
+Dialogue: 0,0:04:49.97,0:04:52.57,Default,Shinpei,0,0,0,,Ama ufak bir sorunu var.
+Dialogue: 0,0:04:53.15,0:04:56.65,Default,Shinpei,0,0,0,,Adadaki neredeyse bütün\Ngenelevlerden yasaklı.
+Dialogue: 0,0:04:56.65,0:04:57.68,Default,Satoko,0,0,0,,Yasaklı mı?
+Dialogue: 0,0:05:01.23,0:05:03.16,Default,Shinpei,0,0,0,,Endişelenmene gerek yok.
+Dialogue: 0,0:05:03.16,0:05:07.85,Default,Shinpei,0,0,0,,İçince biraz huysuzlaşıyor,\Nama içki servisi yapılmıyor.
+Dialogue: 0,0:05:08.17,0:05:09.96,Default,Satoko,0,0,0,,Öyle mi?
+Dialogue: 0,0:05:09.96,0:05:12.71,Default,Satoko,0,0,0,,O hâlde yavaş yavaş yakınlaşıp...
+Dialogue: 0,0:05:12.71,0:05:14.60,Default,Shinpei,0,0,0,,Onunla birden fazla görüşemezsin.
+Dialogue: 0,0:05:14.60,0:05:16.94,Default,Shinpei,0,0,0,,Bugünlük tek seferlik bir plan.
+Dialogue: 0,0:05:16.94,0:05:18.63,Default,Shinpei,0,0,0,,Başarısız olursan iş biter.
+Dialogue: 0,0:05:19.04,0:05:21.05,Italics,Satoko,0,0,0,,Tek sefer mi...
+Dialogue: 0,0:05:21.67,0:05:25.17,Default,Shinpei,0,0,0,,Senden hoşlanmazsa\Nbaşka bir fahişeye gider.
+Dialogue: 0,0:05:25.68,0:05:30.30,Default,Shinpei,0,0,0,,Böyle en alt sınıf bir geneleve\Niyi müşteri pek gelmez.
+Dialogue: 0,0:05:31.12,0:05:36.31,Default,Shinpei,0,0,0,,Öyle olursa vazgeçip bu adada\Ngizlenerek ömür boyu yaşarız.
+Dialogue: 0,0:05:36.55,0:05:39.28,Default,Shinpei,0,0,0,,Ama bu o kadar da kötü olmayabilir.
+Dialogue: 0,0:05:39.78,0:05:42.19,Default,Shinpei,0,0,0,,Sürekli tehlikeye maruz kalırsak,
+Dialogue: 0,0:05:42.49,0:05:47.32,Default,Shinpei,0,0,0,,senin için vazgeçilmez biri\Nolabilirim, Satoko.
+Dialogue: 0,0:05:49.12,0:05:52.17,Italics,Satoko {M},0,0,0,,Böyle bir adamla sonsuza kadar birlikte olmak...
+Dialogue: 0,0:05:53.22,0:05:54.48,Default,Satoko,0,0,0,,Anladım.
+Dialogue: 0,0:05:54.93,0:05:58.37,Default,Satoko,0,0,0,,Bunu başarıp bir an önce\Nbu adadan gidelim.
+Dialogue: 0,0:05:58.93,0:06:02.00,Default,Satoko,0,0,0,,Öyleyse önce buzları kırmam gerek.
+Dialogue: 0,0:06:02.00,0:06:06.71,Default,Satoko,0,0,0,,Emniyet Genel Müdürü'nün oğluysa\Ngünlük hayatı da sıkı kurallarla doludur.
+Dialogue: 0,0:06:06.71,0:06:10.13,Default,Satoko,0,0,0,,Belki de bu zihinsel yükü\Nalkolle boşaltıyordur...
+Dialogue: 0,0:06:10.13,0:06:11.43,Default,Shinpei,0,0,0,,Satoko?
+Dialogue: 0,0:06:10.15,0:06:14.17,Top,Satoko,0,0,0,,Alkol olmayacak, sohbetle onu rahatlatıp
+Dialogue: 0,0:06:14.17,0:06:17.67,Top,Satoko,0,0,0,,normalde kimseye anlatamadığı dertlerini sorarsam,
+Dialogue: 0,0:06:17.67,0:06:20.50,Top,Satoko,0,0,0,,zihnindeki yükü biraz hafifletebilirim belki.
+Dialogue: 0,0:06:15.57,0:06:18.32,Default,Shinpei,0,0,0,,Bu kadar gerilmene gerek yok.
+Dialogue: 0,0:06:18.32,0:06:20.40,Default,Shinpei,0,0,0,,Ne de olsa sen {\i1}benim{\i0} gelinimsin, yani—
+Dialogue: 0,0:06:20.40,0:06:22.65,Default,Satoko,0,0,0,,Şimdilik bunu unutun lütfen!
+Dialogue: 0,0:06:22.65,0:06:24.40,Default,Shinpei,0,0,0,,Ha? Ne demek istiyorsun?
+Dialogue: 0,0:06:24.62,0:06:28.30,Default,Satoko,0,0,0,,Aklımda başka bir erkek varken\Nbu iş yürümez.
+Dialogue: 0,0:06:28.30,0:06:30.99,Default,Satoko,0,0,0,,Şu an sadece müşteriye odaklanmak istiyorum.
+Dialogue: 0,0:06:31.26,0:06:34.30,Top,Satoko,0,0,0,,Onunla empati kurabilirsem\Nbir fırsat doğar.
+Dialogue: 0,0:06:34.30,0:06:37.63,Default,Shinpei,0,0,0,,Galiba hevesim kaçmaya başladı.
+Dialogue: 0,0:06:34.30,0:06:37.63,Top,Satoko,0,0,0,,Onu zorla konuşturmak da olmaz,
+Dialogue: 0,0:06:37.63,0:06:41.38,Top,Satoko,0,0,0,,belki acele etmeyip savunmasını düşürürüm,\Nsonra gülümserim... Ah, ama ya...
+Dialogue: 0,0:06:37.63,0:06:41.38,Default,Shinpei,0,0,0,,Belki onu öldürüp\Nseninle bu adaya yerleşmeliyim—
+Dialogue: 0,0:06:41.38,0:06:43.38,Default,Satoko,0,0,0,,Biraz susar mısınız?
+Dialogue: 0,0:06:43.38,0:06:45.50,Default,Satoko,0,0,0,,Kendimi satın aldırmamı\Nsöyleyen sizsiniz!
+Dialogue: 0,0:06:45.97,0:06:47.99,Default,Satoko,0,0,0,,Her şeyi zorla çözmeye çalışmayı bırakıp
+Dialogue: 0,0:06:47.99,0:06:50.76,Default,Satoko,0,0,0,,sözlerinizin sorumluluğunu üstlenin!
+Dialogue: 0,0:06:50.76,0:06:53.67,Default,Satoko,0,0,0,,Bu sefer bana bırak, sen karışma!
+Dialogue: 0,0:06:53.67,0:06:54.64,Default,Yamamoto,0,0,0,,Ş-Şey...
+Dialogue: 0,0:06:55.15,0:06:57.79,Default,Satoko,0,0,0,,Ben {\i1}ne olursa olsun{\i0} sağ salim\Nbu adadan çıkacağım.
+Dialogue: 0,0:06:58.17,0:06:59.79,Default,Satoko,0,0,0,,Sonra da evleneceğim.
+Dialogue: 0,0:07:08.92,0:07:09.65,Default,Shinpei,0,0,0,,O...
+Dialogue: 0,0:07:09.65,0:07:12.25,Default,Shinpei,0,0,0,,Bana evlenme teklif etti!
+Dialogue: 0,0:07:14.78,0:07:16.97,Default,Yamamoto,0,0,0,,O kız için endişeye gerek yok bence.
+Dialogue: 0,0:07:17.38,0:07:19.85,Default,Yamamoto,0,0,0,,Biz de göz kulak oluyoruz.
+Dialogue: 0,0:07:23.36,0:07:24.87,Default,Shinpei,0,0,0,,Umarım öyledir.
+Dialogue: 0,0:07:30.34,0:07:32.43,Italics,Satoko {M},0,0,0,,Gerilmeye başladım.
+Dialogue: 0,0:07:32.95,0:07:35.60,Italics,Satoko {M},0,0,0,,Ya çok korkunç biriyse...
+Dialogue: 0,0:07:36.27,0:07:38.09,Italics,Satoko {M},0,0,0,,Cesaretini kaybetme!
+Dialogue: 0,0:07:38.41,0:07:39.77,Italics,Satoko {M},0,0,0,,Kim olursa olsun,
+Dialogue: 0,0:07:40.19,0:07:41.96,Italics,Satoko {M},0,0,0,,onun hoşuna gitmelisin.
+Dialogue: 0,0:07:44.89,0:07:47.44,Default,Satoko,0,0,0,,Ben Satoko, yeni geldim.
+Dialogue: 0,0:07:48.05,0:07:50.28,Default,Satoko,0,0,0,,İçeri girip tanışabilir miyim?
+Dialogue: 0,0:07:51.93,0:07:54.28,Default,Nitobe,0,0,0,,Evet, girin.
+Dialogue: 0,0:08:03.77,0:08:05.94,Italics,Satoko {M},0,0,0,,Nereye otursam...
+Dialogue: 0,0:08:05.94,0:08:08.82,Default,Nitobe,0,0,0,,Köşede öyle durmayın, buraya gelin... Aah!
+Dialogue: 0,0:08:09.68,0:08:10.96,Default,Nitobe,0,0,0,,Eyvah...
+Dialogue: 0,0:08:11.36,0:08:12.74,Default,Satoko,0,0,0,,İyi misiniz?
+Dialogue: 0,0:08:12.74,0:08:13.88,Default,Satoko,0,0,0,,Ben temizleyeyim.
+Dialogue: 0,0:08:16.49,0:08:17.88,Default,Nitobe,0,0,0,,Kusura bakmayın...
+Dialogue: 0,0:08:19.36,0:08:23.48,Default,Nitobe,0,0,0,,Güzel bir kadın karşısında\Nçok heyecanlanıyorum...
+Dialogue: 0,0:08:24.99,0:08:26.26,Italics,Satoko {M},0,0,0,,Bu iş yürüyebilir.
+Dialogue: 0,0:08:29.53,0:08:32.86,Italics,Satoko {M},0,0,0,,Onu kadınlarla haşır neşir\Nbiri sanmıştım.
+Dialogue: 0,0:08:33.89,0:08:35.99,Italics,Satoko {M},0,0,0,,Böyleyse benim de bir şansım olabilir.
+Dialogue: 0,0:08:36.25,0:08:37.62,Default,Nitobe,0,0,0,,Adın Satoko'ydu, değil mi?
+Dialogue: 0,0:08:37.62,0:08:38.99,Default,Satoko,0,0,0,,E-Evet!
+Dialogue: 0,0:08:39.23,0:08:41.66,Default,Nitobe,0,0,0,,Buraya gireli ne kadar oldu?
+Dialogue: 0,0:08:42.03,0:08:45.74,Default,Satoko,0,0,0,,Şey... Aslında bugün ilk günüm.
+Dialogue: 0,0:08:46.43,0:08:47.69,Default,Nitobe,0,0,0,,Öyle mi?
+Dialogue: 0,0:08:50.29,0:08:52.26,Italics,Satoko {M},0,0,0,,Sohbet ilerlemiyor!
+Dialogue: 0,0:08:52.26,0:08:55.01,Italics,Satoko {M},0,0,0,,Bir konu bulmalıyım...
+Dialogue: 0,0:08:55.26,0:08:57.84,Default,Nitobe,0,0,0,,Bu kadar heyecanlanmana gerek yok.
+Dialogue: 0,0:08:57.84,0:08:59.60,Default,Satoko,0,0,0,,Aah, özür dilerim.
+Dialogue: 0,0:09:01.59,0:09:04.06,Default,Nitobe,0,0,0,,Sanırım heyecanlanan benim.
+Dialogue: 0,0:09:05.25,0:09:11.07,Default,Nitobe,0,0,0,,İşimdeki kısıtlamalar yüzünden olacak,\Nburası tek nefes alabildiğim yer.
+Dialogue: 0,0:09:11.46,0:09:17.45,Default,Nitobe,0,0,0,,Bu yüzden fahişelerin de\Nzamanımızı keyifle geçirmesini istiyorum.
+Dialogue: 0,0:09:17.95,0:09:24.96,Default,Nitobe,0,0,0,,Böyle söylesem de hiçbir kadınla\Nciddi bir ilişkim olmadı, ne yapacağımı bilmiyorum.
+Dialogue: 0,0:09:25.35,0:09:32.71,Default,Nitobe,0,0,0,,Bu yüzden içki içince garip davranıp\Nherkesi rahatsız ediyorum, herkes benden uzak duruyor.
+Dialogue: 0,0:09:33.12,0:09:34.87,Default,Nitobe,0,0,0,,Utanç verici.
+Dialogue: 0,0:09:36.93,0:09:38.96,Italics,Satoko {M},0,0,0,,Ne kadar dürüst biri...
+Dialogue: 0,0:09:39.57,0:09:43.72,Italics,Satoko {M},0,0,0,,Onun yasaklı olduğunu\Nhâlâ aklım almıyor.
+Dialogue: 0,0:09:45.23,0:09:49.10,Default,Satoko,0,0,0,,Ben de erkeklerle konuşmaya\Nalışkın değilim...
+Dialogue: 0,0:09:50.28,0:09:54.36,Default,Satoko,0,0,0,,Ama söyledikleriniz beni biraz rahatlattı.
+Dialogue: 0,0:09:55.89,0:09:57.38,Default,Satoko,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:09:59.12,0:10:01.43,Default,Nitobe,0,0,0,,Öyle mi? Sevindim.
+Dialogue: 0,0:10:02.34,0:10:04.78,Default,Nitobe,0,0,0,,Bir şey sorabilir miyim?
+Dialogue: 0,0:10:04.78,0:10:05.69,Default,Satoko,0,0,0,,Evet?
+Dialogue: 0,0:10:05.69,0:10:08.71,Default,Nitobe,0,0,0,,Satoko, neden burada çalışmaya karar verdin?
+Dialogue: 0,0:10:09.40,0:10:14.46,Default,Nitobe,0,0,0,,Şey... Görünüşünde, tavırlarında\Nasil bir hava var.
+Dialogue: 0,0:10:15.00,0:10:18.03,Italics,Satoko {M},0,0,0,,Ne yapacağım, nasıl açıklasam...
+Dialogue: 0,0:10:18.66,0:10:21.33,Italics,Satoko {M},0,0,0,,Dışarıdan geldiğim anlaşılırsa\Nbaşım belaya girer.
+Dialogue: 0,0:10:21.96,0:10:24.73,Italics,Satoko {M},0,0,0,,Hmm? Gerçekten öyle mi olur?
+Dialogue: 0,0:10:25.65,0:10:31.48,Italics,Satoko {M},0,0,0,,Babası Emniyet Genel Müdürü'yse,\Ndurumu anlatırsam bana yardım edebilir belki?
+Dialogue: 0,0:10:31.48,0:10:35.34,Default,Nitobe,0,0,0,,Aslında ben poliste çalışıyorum.
+Dialogue: 0,0:10:35.80,0:10:38.61,Default,Nitobe,0,0,0,,Bir sıkıntın varsa\Nbelki yardımcı olabilirim.
+Dialogue: 0,0:10:38.98,0:10:43.78,Italics,Satoko {M},0,0,0,,Satın alınmadan da hemen\Nadadan çıkabilirim belki.
+Dialogue: 0,0:10:44.28,0:10:47.00,Default,Satoko,0,0,0,,Beni dinler misiniz?
+Dialogue: 0,0:10:49.61,0:10:52.86,Default,Nitobe,0,0,0,,Anlıyorum... Demek böyleymiş.
+Dialogue: 0,0:10:52.86,0:10:58.07,Default,Satoko,0,0,0,,Bir kadının bu adadan çıkmasının\Nsatın alınmaktan başka yolu olmadığını duymuştum.
+Dialogue: 0,0:10:58.56,0:10:59.84,Default,Satoko,0,0,0,,Bu doğru mu?
+Dialogue: 0,0:11:00.98,0:11:03.64,Default,Nitobe,0,0,0,,Doğru olabilir.
+Dialogue: 0,0:11:04.74,0:11:09.52,Default,Nitobe,0,0,0,,Bu adada olanlara\Npolis teşkilatı bile karışamıyor.
+Dialogue: 0,0:11:09.99,0:11:13.14,Default,Nitobe,0,0,0,,Yardım edeceğim deyip de... kusura bakmayın.
+Dialogue: 0,0:11:14.77,0:11:16.02,Default,Satoko,0,0,0,,Anlıyorum...
+Dialogue: 0,0:11:17.30,0:11:19.68,Default,Nitobe,0,0,0,,Demek o yolla olmuyor...
+Dialogue: 0,0:11:20.77,0:11:22.59,Default,Nitobe,0,0,0,,Ben seni satın alayım.
+Dialogue: 0,0:11:22.59,0:11:24.87,Default,Nitobe,0,0,0,,Böylece bu adadan çıkabilirsin.
+Dialogue: 0,0:11:26.49,0:11:27.74,Default,Satoko,0,0,0,,Çok teşekkür ederim!
+Dialogue: 0,0:11:28.08,0:11:30.63,Default,Satoko,0,0,0,,Eve dönünce satın alma bedelini\Nmutlaka ödeyeceğim...
+Dialogue: 0,0:11:30.63,0:11:32.29,Default,Nitobe,0,0,0,,Hayır, demek istediğim o değil.
+Dialogue: 0,0:11:32.95,0:11:36.29,Default,Nitobe,0,0,0,,Yasal eşim olmanı istiyorum.
+Dialogue: 0,0:11:36.61,0:11:38.82,Default,Nitobe,0,0,0,,Sana ilk görüşte âşık oldum galiba.
+Dialogue: 0,0:11:41.34,0:11:43.61,Default,Satoko,0,0,0,,Teklifinizi {\i1}gerçekten{\i0} takdir ediyorum ama
+Dialogue: 0,0:11:44.43,0:11:48.84,Default,Satoko,0,0,0,,az önce söylediğim gibi,\Nbenim bünyem zayıf.
+Dialogue: 0,0:11:49.54,0:11:52.88,Default,Satoko,0,0,0,,Aileniz bu evliliğe razı olur mu?
+Dialogue: 0,0:11:52.88,0:11:55.72,Default,Nitobe,0,0,0,,Onları ikna ederim, mutlaka razı ederim.
+Dialogue: 0,0:11:56.06,0:11:59.60,Default,Nitobe,0,0,0,,Gerçekten tedavi edilemez bir hastalık mı,\Nülkenin dört yanından doktorlara göstereceğim.
+Dialogue: 0,0:12:01.28,0:12:04.20,Default,Nitobe,0,0,0,,Seni kendi ellerimle korumak istiyorum.
+Dialogue: 0,0:12:07.46,0:12:08.73,Italics,Satoko {M},0,0,0,,Evlilik...
+Dialogue: 0,0:12:09.36,0:12:14.42,Italics,Satoko {M},0,0,0,,Karşı taraf bu kadar iyi bir ailedense\Nbabam kesin sevinir.
+Dialogue: 0,0:12:15.13,0:12:16.99,Italics,Satoko {M},0,0,0,,Reddetmek için bir nedenim yok.
+Dialogue: 0,0:12:18.24,0:12:19.42,Flashback,Shinpei {ep 2},0,0,0,,Seni seviyorum.
+Dialogue: 0,0:12:20.92,0:12:23.06,Italics,Satoko {M},0,0,0,,Ona ne olacak acaba?
+Dialogue: 0,0:12:24.43,0:12:27.14,Italics,Satoko {M},0,0,0,,Nitobe Bey'i öldürmeye gelebilir.
+Dialogue: 0,0:12:27.14,0:12:29.23,Italics,Satoko {M},0,0,0,,Öyleyse şimdi ona haber vermeliyim.
+Dialogue: 0,0:12:29.77,0:12:33.94,Italics,Satoko {M},0,0,0,,Evlilik teklifi sadece hayatta kalmak için bir araç,
+Dialogue: 0,0:12:34.17,0:12:35.92,Italics,Satoko {M},0,0,0,,o zaten büyük bir alçak.\N Onu düşünmeme gerek yok.
+Dialogue: 0,0:12:37.31,0:12:38.21,Italics,Satoko {M},0,0,0,,Ama...
+Dialogue: 0,0:12:39.14,0:12:43.00,Italics,Satoko {M},0,0,0,,Beni kurtaran birini\Naldatmaya devam etmem doğru mu?
+Dialogue: 0,0:12:50.83,0:12:53.45,Italics,Satoko {M},0,0,0,,Aaa! N-Ne... Neden orada!
+Dialogue: 0,0:12:53.45,0:12:54.58,Italics,Satoko {M},0,0,0,,Ne zaman girdi?
+Dialogue: 0,0:12:54.89,0:12:55.75,Default,Nitobe,0,0,0,,Bir şey mi oldu...?
+Dialogue: 0,0:12:55.99,0:12:57.25,Default,Satoko,0,0,0,,Hiçbir şey yok!
+Dialogue: 0,0:12:58.42,0:12:59.88,Default,Nitobe,0,0,0,,Bir böcek mi vardı?
+Dialogue: 0,0:13:00.16,0:13:02.13,Default,Nitobe,0,0,0,,Bundan utanmana gerek yok.
+Dialogue: 0,0:13:03.63,0:13:05.30,Default,Nitobe,0,0,0,,Burada çok olur çünkü.
+Dialogue: 0,0:13:05.60,0:13:06.47,Italics,Satoko {M},0,0,0,,Neden!
+Dialogue: 0,0:13:06.86,0:13:08.00,Default,Nitobe,0,0,0,,Neden bu kadar korkuyorsun—
+Dialogue: 0,0:13:08.00,0:13:10.31,Default,Satoko,0,0,0,,Fare! Fare gördüm!
+Dialogue: 0,0:13:10.79,0:13:14.29,Italics,Satoko {M},0,0,0,,Sorun yok, iyiyim; sen dışarıda dur!
+Dialogue: 0,0:13:15.44,0:13:16.85,Sign_Default,Sign,0,0,0,,{\fad(230,0)\shad0\bord2\blur0.2\b1\fs30\an8\frz342.6\c&H000000&\3c&HFFFFFF&\move(396,69.5,404,33.5)}Tam\Nburadayım\h
+Dialogue: 0,0:13:15.44,0:13:16.85,Sign_Default,Sign,0,0,0,,{\fad(230,0)\shad0\bord2\blur0.2\b1\fs30\an8\c&H000000&\3c&HFFFFFF&\move(248.5,270,234,237.5)\frz26}güvende olmanı\Nsağlıyorum
+Dialogue: 0,0:13:19.74,0:13:22.79,Default,Satoko,0,0,0,,Fare paravanın arkasında!\NÇok korktum!
+Dialogue: 0,0:13:22.79,0:13:25.61,Default,Nitobe,0,0,0,,Tamam. Onu kovalarım.
+Dialogue: 0,0:13:25.61,0:13:27.36,Default,Nitobe,0,0,0,,Nereye gitti?
+Dialogue: 0,0:13:28.24,0:13:29.66,Default,Nitobe,0,0,0,,Göremiyorum.
+Dialogue: 0,0:13:29.66,0:13:31.66,Default,Satoko,0,0,0,,Belki daha içeri gitmiştir.
+Dialogue: 0,0:13:32.33,0:13:34.49,Default,Satoko,0,0,0,,Bunu bana bırakın demedim mi!
+Dialogue: 0,0:13:34.49,0:13:37.77,Default,Shinpei,0,0,0,,Ama bir adamla yalnız kalman\Nbeni endişelendiriyor.
+Dialogue: 0,0:13:38.05,0:13:40.29,Default,Shinpei,0,0,0,,Sana tek parmağını bile\Ndokundurmasına izin veremem.
+Dialogue: 0,0:13:41.50,0:13:44.60,Default,Shinpei,0,0,0,,Lütfen! Kesinlikle görünmeyeceğim.
+Dialogue: 0,0:13:44.60,0:13:45.35,Default,Satoko,0,0,0,,Hayır.
+Dialogue: 0,0:13:45.35,0:13:47.38,Default,Shinpei,0,0,0,,Lütfen, lütfen, lütfeeen!
+Dialogue: 0,0:13:47.38,0:13:50.01,Default,Satoko,0,0,0,,Dikkatimi dağıtıyorsun! Dışarı çık!
+Dialogue: 0,0:13:51.95,0:13:53.77,Default,Shinpei,0,0,0,,Tamam.
+Dialogue: 0,0:13:54.40,0:13:57.04,Default,Shinpei,0,0,0,,Ama şunu unutma:
+Dialogue: 0,0:13:57.90,0:14:01.94,Default,Shinpei,0,0,0,,Seni koruyacak olan Nitobe değil, benim.
+Dialogue: 0,0:14:04.61,0:14:05.94,Default,Nitobe,0,0,0,,Hmm, yok.
+Dialogue: 0,0:14:06.18,0:14:08.45,Default,Nitobe,0,0,0,,Dışarı kaçmış olabilir.
+Dialogue: 0,0:14:08.45,0:14:11.34,Default,Satoko,0,0,0,,Öyle mi? Özür dilerim.
+Dialogue: 0,0:14:11.34,0:14:13.02,Default,Nitobe,0,0,0,,Konuya dönelim.
+Dialogue: 0,0:14:13.70,0:14:17.13,Default,Nitobe,0,0,0,,Evlilik konusunda ne dersin?
+Dialogue: 0,0:14:21.42,0:14:24.13,Default,Nitobe,0,0,0,,Daha yeni tanıştık, çok ani oldu.
+Dialogue: 0,0:14:24.38,0:14:27.99,Default,Nitobe,0,0,0,,Kusura bakma, biraz daha\Nkendimden bahsedeyim.
+Dialogue: 0,0:14:37.24,0:14:37.98,Default,Satoko,0,0,0,,Nitobe Bey?
+Dialogue: 0,0:14:39.61,0:14:40.48,Default,Satoko,0,0,0,,A... Nitobe Bey!
+Dialogue: 0,0:14:43.19,0:14:45.73,Default,Yukari,0,0,0,,Suyu içkiyle değiştirdim.
+Dialogue: 0,0:14:45.97,0:14:49.99,Default,Yukari,0,0,0,,Bunu aşçının hatası\Ndiye geçiştirebilirim.
+Dialogue: 0,0:14:51.00,0:14:53.32,Default,Hatsune,0,0,0,,İçki onun öteki yüzünü\Nortaya çıkarınca...
+Dialogue: 0,0:14:53.32,0:14:57.62,Default,Sawarabi,0,0,0,,O yeni kız sabaha kadar\Nodadan çıkamaz.
+Dialogue: 0,0:14:57.62,0:15:00.50,Default,Yukari,0,0,0,,İlk günden büyük iş.
+Dialogue: 0,0:14:57.62,0:14:59.95,Top,Satoko,0,0,0,,Nitobe Bey! Size ne oldu... Aa!
+Dialogue: 0,0:15:09.19,0:15:12.26,Default,Yukari,0,0,0,,Bu sefer av olacak olan...
+Dialogue: 0,0:15:12.86,0:15:14.79,Default,Yukari,0,0,0,,o kız.
+Dialogue: 0,0:15:16.01,0:15:20.87,Sign_Default,Sign,0,0,0,,{\fad(0,1300)\fnGeorgia\fs18\bord0\shad0\b1\fscx90\pos(562,170)\c&HFFFFFF&}Ateşböceği\NDüğünü
+Dialogue: 0,0:15:17.18,0:15:19.27,Italics,Satoko {M},0,0,0,,Ne oldu böyle?
+Dialogue: 0,0:15:19.27,0:15:21.90,Italics,Satoko {M},0,0,0,,Az önceki hâline\Nhiç benzemiyor.
+Dialogue: 0,0:15:29.50,0:15:33.78,Default,Nitobe,0,0,0,,Gün ışığında eğlenmeyeli\Nne kadar oldu acaba?
+Dialogue: 0,0:15:33.78,0:15:35.70,Default,Satoko,0,0,0,,Sarhoş musunuz?
+Dialogue: 0,0:15:35.70,0:15:37.49,Default,Satoko,0,0,0,,Kendinize gelin!
+Dialogue: 0,0:15:37.49,0:15:40.66,Default,Nitobe,0,0,0,,"Kendime gelmek"... öyle mi?
+Dialogue: 0,0:15:41.85,0:15:46.34,Default,Nitobe,0,0,0,,Hihi, Eishin küçüklüğünden beri\Nailesi tarafından sıkı yetiştirildi.
+Dialogue: 0,0:15:46.34,0:15:50.26,Default,Nitobe,0,0,0,,İçkiyi de kadını da bilmeden\Nbüyüdü.
+Dialogue: 0,0:15:50.65,0:15:54.81,Default,Nitobe,0,0,0,,Bu yüzden arzularını nasıl\Nboşaltacağını bilemedi,
+Dialogue: 0,0:15:54.81,0:15:58.26,Default,Nitobe,0,0,0,,ikinci bir benlik yarattı.
+Dialogue: 0,0:15:58.26,0:16:03.44,Default,Nitobe,0,0,0,,Patlamak üzereyken\Nonu bu adaya getirip
+Dialogue: 0,0:16:03.44,0:16:06.77,Default,Nitobe,0,0,0,,onun yerine ruhunu ve\Nbedenini rahatlatıyorum.
+Dialogue: 0,0:16:06.77,0:16:11.53,Default,Nitobe,0,0,0,,Çevresindekilerin onu\Nfazla sıkmasının sonucu bu.
+Dialogue: 0,0:16:12.48,0:16:13.53,Default,Nitobe,0,0,0,,Soyun.
+Dialogue: 0,0:16:14.44,0:16:17.95,Default,Nitobe,0,0,0,,Evlenince her gece\Nbeni tatmin etmek zorunda kalacaksın.
+Dialogue: 0,0:16:18.43,0:16:21.87,Default,Nitobe,0,0,0,,Önce burada beni tatmin et.
+Dialogue: 0,0:16:23.62,0:16:25.29,Default,Nitobe,0,0,0,,Hadi çabuk soyun!
+Dialogue: 0,0:16:25.72,0:16:27.60,Default,Nitobe,0,0,0,,Zamanımı harcama!
+Dialogue: 0,0:16:31.77,0:16:33.07,Default,Nitobe,0,0,0,,Bu da ne?
+Dialogue: 0,0:16:33.75,0:16:34.63,Default,Nitobe,0,0,0,,Yara izi mi?
+Dialogue: 0,0:16:34.86,0:16:37.47,Default,Nitobe,0,0,0,,Ne kadar çirkin...
+Dialogue: 0,0:16:37.86,0:16:41.47,Default,Nitobe,0,0,0,,Ah, anladım. Ameliyat izi.
+Dialogue: 0,0:16:41.84,0:16:42.97,Default,Satoko,0,0,0,,Bırakın beni.
+Dialogue: 0,0:16:42.97,0:16:45.98,Default,Nitobe,0,0,0,,Bu bir kadın için ölümcül bir kusur.
+Dialogue: 0,0:16:45.98,0:16:49.48,Default,Nitobe,0,0,0,,Her soyunduğunda\Nerkeğin hevesi kaçar.
+Dialogue: 0,0:16:51.74,0:16:54.57,Default,Nitobe,0,0,0,,Hadi, arkanı dön.
+Dialogue: 0,0:16:55.87,0:16:57.84,Default,Nitobe,0,0,0,,Hıh, sırtında yara izi yok.
+Dialogue: 0,0:16:57.84,0:17:02.08,Default,Nitobe,0,0,0,,Yapacak bir şey yok.\NGeceleri arkadan idare edivereyim.
+Dialogue: 0,0:17:02.08,0:17:06.04,Default,Nitobe,0,0,0,,Yüzün güzel, bir de\NKirigaya adını taşıyorsun.
+Dialogue: 0,0:17:06.40,0:17:08.84,Default,Nitobe,0,0,0,,Satın alma teklifimi geçerli tutayım bari.
+Dialogue: 0,0:17:12.25,0:17:16.84,Default,Nitobe,0,0,0,,Seni satın alacağımı söylüyorum.\NBiraz sevinmeye ne dersin?
+Dialogue: 0,0:17:18.98,0:17:22.47,Default,Nitobe,0,0,0,,Burası sorunlu fahişelerin yuvası.
+Dialogue: 0,0:17:22.95,0:17:27.94,Default,Nitobe,0,0,0,,Çirkin kadınlar. Sevgilisiyle\Nbirlikte ölmeye çalışan kadınlar.
+Dialogue: 0,0:17:27.94,0:17:30.48,Default,Nitobe,0,0,0,,Müşterisini öldüren kadınlar.
+Dialogue: 0,0:17:30.48,0:17:34.11,Default,Nitobe,0,0,0,,Hepsi kusurlu mal, bıktım artık.
+Dialogue: 0,0:17:34.48,0:17:39.37,Default,Nitobe,0,0,0,,Yine de satın alma lafı açılır açılmaz\Nhepsi bana yapıştı.
+Dialogue: 0,0:17:39.37,0:17:44.74,Default,Nitobe,0,0,0,,Ne istesem kabul ettirebiliyordum.\NÇok eğlenceliydi.
+Dialogue: 0,0:17:45.11,0:17:49.33,Default,Nitobe,0,0,0,,Onları adadan salarsak\NJaponya'nın ahlakı bozulur.
+Dialogue: 0,0:17:49.61,0:17:53.59,Default,Nitobe,0,0,0,,Pislik çöp kutusundan dışarı çıkmamalı.
+Dialogue: 0,0:17:55.13,0:17:57.26,Default,Nitobe,0,0,0,,Konudan uzaklaştım.
+Dialogue: 0,0:17:57.62,0:17:59.64,Default,Nitobe,0,0,0,,Her neyse, seninle evleneceğim.
+Dialogue: 0,0:17:59.64,0:18:02.39,Default,Nitobe,0,0,0,,Benim için de fena bir anlaşma değil.
+Dialogue: 0,0:18:02.79,0:18:07.33,Default,Nitobe,0,0,0,,Kirigaya Kontu'nun damadı olursam\Ndaha rahat hareket edebilirim
+Dialogue: 0,0:18:07.33,0:18:10.24,Default,Nitobe,0,0,0,,bir yandan da Emniyet Genel Müdürü'nün\Noğlu olarak.
+Dialogue: 0,0:18:10.24,0:18:13.98,Default,Nitobe,0,0,0,,Adadaki bütün fahişeleri\Nsatın alabilirim.
+Dialogue: 0,0:18:14.87,0:18:19.49,Italics,Satoko {M},0,0,0,,Mevki iyi olduğu sürece\Nbabamı rahatlatabilirim.
+Dialogue: 0,0:18:20.39,0:18:24.23,Italics,Satoko {M},0,0,0,,Kim olursa olsun\Nevlenmeyi düşünüyordum.
+Dialogue: 0,0:18:24.90,0:18:25.69,Italics,Satoko {M},0,0,0,,Ama...
+Dialogue: 0,0:18:28.63,0:18:32.38,Default,Satoko,0,0,0,,Satın alma teklifinizi\Nne yazık ki reddetmek zorundayım.
+Dialogue: 0,0:18:34.23,0:18:34.88,Default,Nitobe,0,0,0,,Ha?
+Dialogue: 0,0:18:36.25,0:18:38.34,Default,Nitobe,0,0,0,,Şaka yapmayı bırak.
+Dialogue: 0,0:18:38.34,0:18:42.63,Default,Nitobe,0,0,0,,Benimle evlenirsen\Nhemen buradan çıkabilirsin.
+Dialogue: 0,0:18:42.63,0:18:45.10,Default,Nitobe,0,0,0,,Fazla direnme, hemen onayla.
+Dialogue: 0,0:18:45.77,0:18:48.06,Italics,Satoko {M},0,0,0,,Babam böyle bir adamla\Nevlenmemi istemez.
+Dialogue: 0,0:18:48.65,0:18:50.65,Italics,Satoko {M},0,0,0,,Böyle biriyle evliliğimi.
+Dialogue: 0,0:18:51.06,0:18:56.32,Default,Satoko,0,0,0,,Kirigaya adını bir alçakla\Nanamam.
+Dialogue: 0,0:18:58.30,0:18:59.85,Default,Nitobe,0,0,0,,Seni kaltak!
+Dialogue: 0,0:18:59.85,0:19:05.71,Default,Nitobe,0,0,0,,Hasta hâlinle buradaki en kusurlu\Nmalın sen olduğunu bilmiyor musun?!
+Dialogue: 0,0:19:05.71,0:19:08.00,Default,Nitobe,0,0,0,,Beni kim sanıyorsun?
+Dialogue: 0,0:19:08.00,0:19:11.33,Default,Nitobe,0,0,0,,Diz çök ve af dile!
+Dialogue: 0,0:19:11.33,0:19:13.28,Default,Shinpei,0,0,0,,Satoko.
+Dialogue: 0,0:19:18.97,0:19:20.72,Default,Shinpei,0,0,0,,Yardıma geldim.
+Dialogue: 0,0:19:21.52,0:19:22.97,Default,Nitobe,0,0,0,,Sen de kimsin?
+Dialogue: 0,0:19:22.97,0:19:24.85,Default,Nitobe,0,0,0,,Burada mı çalışıyorsun?
+Dialogue: 0,0:19:24.85,0:19:27.10,Default,Nitobe,0,0,0,,Buraya girmek için kimden izin aldın—
+Dialogue: 0,0:19:32.01,0:19:34.82,Default,Shinpei,0,0,0,,Önce o pis ellerini ondan çek.
+Dialogue: 0,0:19:38.68,0:19:42.24,Default,Shinpei,0,0,0,,Haklıymışsın Satoko, bu işi bırakalım.
+Dialogue: 0,0:19:43.83,0:19:45.14,Default,Nitobe,0,0,0,,S-Sen ölüsün.
+Dialogue: 0,0:19:45.14,0:19:47.37,Default,Nitobe,0,0,0,,İkinizi de öldüreceğim.
+Dialogue: 0,0:19:47.37,0:19:50.12,Default,Nitobe,0,0,0,,Burada olduğunuzu herkese duyuracağım.
+Dialogue: 0,0:19:53.69,0:19:56.42,Default,Nitobe,0,0,0,,Yaklaşma!
+Dialogue: 0,0:19:56.42,0:19:57.84,Default,Satoko,0,0,0,,Hayır!
+Dialogue: 0,0:19:58.27,0:19:59.55,Default,Satoko,0,0,0,,Onu öldürme!
+Dialogue: 0,0:20:04.65,0:20:05.35,Default,Satoko,0,0,0,,Bekle!
+Dialogue: 0,0:20:07.68,0:20:09.39,Default,Shinpei,0,0,0,,Yazık oldu.
+Dialogue: 0,0:20:10.15,0:20:14.79,Default,Shinpei,0,0,0,,Onu kullanmaktan başka\Nadadan çıkış yolu bulamıyorum.
+Dialogue: 0,0:20:15.40,0:20:17.71,Default,Shinpei,0,0,0,,Neyse, yapacak bir şey yok.
+Dialogue: 0,0:20:17.71,0:20:21.12,Default,Shinpei,0,0,0,,Karıma zarar vermeye kalkan\Nbir alçağın hakkından gelmeliyim, değil mi?
+Dialogue: 0,0:20:21.99,0:20:24.66,Default,Satoko,0,0,0,,Yeter! Gerçekten {\i1}ölecek{\i0}!
+Dialogue: 0,0:20:46.87,0:20:49.17,Default,Nitobe,0,0,0,,Yaklaşırsan bu kadını öldürürüm!
+Dialogue: 0,0:20:49.17,0:20:50.19,Default,Satoko,0,0,0,,Shinpei Bey!
+Dialogue: 0,0:20:49.70,0:20:50.19,Top,Nitobe,0,0,0,,Hey!
+Dialogue: 0,0:20:50.19,0:20:51.44,Default,Nitobe,0,0,0,,Kıpırdama!
+Dialogue: 0,0:20:51.44,0:20:53.24,Default,Satoko,0,0,0,,Lütfen bir cevap verin!
+Dialogue: 0,0:20:54.54,0:20:56.02,Default,Tamaki,0,0,0,,Silah sesiydi.
+Dialogue: 0,0:20:56.79,0:20:58.04,Default,Tamaki,0,0,0,,Bakayım mı?
+Dialogue: 0,0:20:59.40,0:21:00.90,Default,Yamamoto,0,0,0,,Hoff... Boş ver.
+Dialogue: 0,0:21:00.90,0:21:03.20,Default,Yamamoto,0,0,0,,Silah sesi de duysak çığlık da duysak,
+Dialogue: 0,0:21:00.90,0:21:02.41,Top,Satoko,0,0,0,,Shinpei Bey!
+Dialogue: 0,0:21:03.20,0:21:09.34,Default,Yamamoto,0,0,0,,o odaya kesinlikle girmemem söylendi.
+Dialogue: 0,0:21:03.40,0:21:05.09,Top,Satoko,0,0,0,,Shinpei Bey!
+Dialogue: 0,0:21:05.09,0:21:10.70,Top,Satoko,0,0,0,,Bırak beni! Shinpei Bey! Shinpei Bey!
+Dialogue: 0,0:21:09.34,0:21:10.70,Default,Tamaki,0,0,0,,Neden?
+Dialogue: 0,0:21:13.29,0:21:16.33,Default,Yamamoto,0,0,0,,Kimsenin araya girmesini\Nistemiyormuş...
+Dialogue: 0,0:21:18.33,0:21:23.98,Default,Yamamoto,0,0,0,,...sevdiği kadına kendini\Ndaha çok sevdirecek fırsata.
+Dialogue: 0,0:22:50.84,0:22:55.25,Sign_Default,Sign,0,0,0,,{\fnTimes New Roman\bord2\fs16\shad0\blur0.2\pos(320,330)\c&H494B5F&\3c&HC8C3ED&}Ateşböceği Düğünü Anime Prodüksiyon Komitesi tarafından hazırlanmıştır
