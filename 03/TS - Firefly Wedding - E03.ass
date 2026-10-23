@@ -1,0 +1,35 @@
+[Script Info]
+Title: pn-SomeSubs - Firefly Wedding
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign_Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:31.88,0:00:33.05,Sign_Default,Sign,0,0,0,,{\fad(275,0)\fnGeorgia\b1\bord0\shad0\fs20\t(\fs18.5)\fax-0.19\fscx95\blur0.2\pos(302,174)\c&H745F6D&\frz23\frx350\fry32}Isekichi
+Dialogue: 0,0:00:33.89,0:00:37.47,Sign_Default,Sign,0,0,0,,{\fad(600,0)\fnGeorgia\b1\bord0\shad0\fs7\c&H4F4C4C&\pos(319,136)}Isekichi
+Dialogue: 0,0:01:00.99,0:01:04.41,Sign_Default,Sign,0,0,0,,{\bord6\shad0\b1\blur0.2\fs70\c&H000000&\3c&HFFFFFF&\t(800,1075,\fs50\3c&HF6F2EC&)\an8\fnImpact\frz30\move(76,42,55,35,800,1075)}AAAAA!
+Dialogue: 0,0:01:02.06,0:01:03.79,Sign_Default,Sign,0,0,0,,{\fad(1000,0)\bord1.5\shad0\blur0.2\b1\fscx92\move(456,68,439,74)\c&H121211&\3c&HC7C6C6&}Temiz kıyafetleri\Nburaya bırakacağım...
+Dialogue: 0,0:01:03.79,0:01:04.41,Sign_Default,Sign,0,0,0,,{\bord1.5\shad0\blur0.2\b1\fscx92\move(439,74,436,75)\c&H121211&\3c&HC7C6C6&}Temiz kıyafetleri\Nburaya bırakacağım...
+Dialogue: 0,0:01:04.41,0:01:08.42,Sign_Default,Sign,0,0,0,,{\bord6\shad0\b1\blur0.2\fs70\c&H000000&\3c&HFFFFFF&\t(800,1075,\fs50\3c&HF6F2EC&)\an8\fnImpact\frz330\move(558,46,579,35,860,1100)}AAAAA!
+Dialogue: 0,0:01:05.52,0:01:07.13,Sign_Default,Sign,0,0,0,,{\fad(250,0)\bord1.2\shad0\fs18\an8\blur0.2\b1\fscx92\c&H1B1010&\3c&H7A7371&\move(86,226,94,175)\frz13.85}Korkmuş\Nolmalısın.\NSenin yanında\Nuyurum...
+Dialogue: 0,0:01:07.13,0:01:08.42,Sign_Default,Sign,0,0,0,,{\bord1.2\shad0\fs18\an8\blur0.2\b1\fscx92\c&H1B1010&\3c&H7A7371&\move(94,175,102,173)\frz13.85}Korkmuş\Nolmalısın.\NSenin yanında\Nuyurum...
+Dialogue: 0,0:01:46.84,0:01:47.96,Sign_Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord6.5\shad0\blur0.2\fs50\c&H57203A&\3c&H451429&\move(536,180,536,198)}BAKIŞ
+Dialogue: 1,0:01:46.84,0:01:47.96,Sign_Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord3.5\shad0\blur0.2\fs50\c&H57203A&\3c&HF1E1ED&\move(536,180,536,198)}BAKIŞ
+Dialogue: 0,0:01:47.96,0:01:48.62,Sign_Default,Sign,0,0,0,,{\fnImpact\bord6.5\shad0\blur0.2\fs50\c&H57203A&\3c&H451429&\move(536,198,536,202)}BAKIŞ
+Dialogue: 1,0:01:47.96,0:01:48.62,Sign_Default,Sign,0,0,0,,{\fnImpact\bord3.5\shad0\blur0.2\fs50\c&H57203A&\3c&HF1E1ED&\move(536,198,536,202)}BAKIŞ
+Dialogue: 0,0:03:56.27,0:04:00.01,Sign_Default,Sign,0,0,0,,{\an8\fnGeorgia\bord0\shad0\b1\blur5\fsp1.5\fs30\t(30,500,\blur0.2\fsp0)\fscx90\t(\fs28)\c&H54FFDC&\t(550,750,\c&H428656&)\t(765,840,\c&H6B2214&)\t(850,1100,\c&H000000&)\move(320,5,320,17)}Ateşböceği Düğünü
+Dialogue: 0,0:04:00.01,0:04:04.76,Sign_Default,Sign,0,0,0,,{\an9\bord0\shad0\b1\3a&H70&\blur0.2\fnGeorgia\fscx90\fs22\pos(570,23)\3c&HDEDEFA&}Gözcü Fare
+Dialogue: 0,0:13:15.44,0:13:16.85,Sign_Default,Sign,0,0,0,,{\fad(230,0)\shad0\blur0.2\b1\fs30\an8\frz342.6\c&H000000&\3c&HFFFFFF&\move(396,69.5,404,33.5)}Tam\Nburadayım\h
+Dialogue: 0,0:13:15.44,0:13:16.85,Sign_Default,Sign,0,0,0,,{\fad(230,0)\shad0\blur0.2\b1\fs30\an8\c&H000000&\3c&HFFFFFF&\move(248.5,270,234,237.5)\frz26}güvende olmanı\Nsağlıyorum
+Dialogue: 0,0:15:16.01,0:15:20.87,Sign_Default,Sign,0,0,0,,{\fad(0,1300)\fnGeorgia\fs18\bord0\shad0\b1\fscx90\pos(562,170)}Ateşböceği\NDüğünü
+Dialogue: 0,0:22:50.84,0:22:55.25,Sign_Default,Sign,0,0,0,,{\fnTimes New Roman\fs16\shad0\blur0.2\pos(320,330)\c&H494B5F&\3c&HC8C3ED&}Ateşböceği Düğünü Anime Prodüksiyon Komitesi tarafından hazırlanmıştır
